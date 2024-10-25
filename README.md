@@ -1,7 +1,7 @@
 # Techshare_SweetAlertjs
 
 ### Introduction
-SweetAlert2 is a modern and customizable alternative to the basic JavaScript alert(), confirm(), and prompt(). It offers a much better user experience and flexibility for handling notifications and dialogs.
+#### SweetAlert2 is a modern and customizable alternative to the basic JavaScript alert(), confirm(), and prompt(). It offers a much better user experience and flexibility for handling notifications and dialogs.
 ---
 ### Example Basic Alert and Animations
 input code here
@@ -9,12 +9,12 @@ input code here
 ---
 
 ### Example 2 Custom Input Modal
-#input code here
+#### input code here
 
 ---
 
 ### Example 3 Fetch Funtionality with Input
-#input code here
+#### input code here
 
 ---
 
@@ -27,7 +27,7 @@ input code here
 ---
 
 ### Reference
--SweetAlert2 Documentation
+- [SweetAlert2 Documentation](https://sweetalert2.github.io)
 
 
 
