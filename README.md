@@ -26,7 +26,7 @@ input code here
 
 ---
 
-#### Reference
+### Reference
 -SweetAlert2 Documentation
 
 
